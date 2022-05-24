@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Phone-Store",
+    "image": "detail-page",
+    "technologies": ["React", "Node.js", "Hooks", "Ant Design UI"],
+    "description": "Phone store is a e-commerce shopping website.",
+    "appUrl": "https://phone-store-s.netlify.app",
+    "githubUrl": "https://github.com/sarahwangy/phoneStore"
+  },
+  {
+    "title": "Jianshu Blog",
+    "image": "home-page1",
+    "technologies": ["React", "Bootstrap", "JSON", "CSS", "Redux"],
+    "description": "jianshu blog.",
+    "appUrl": "https://jianshu-blog.netlify.app",
+    "githubUrl": "https://github.com/sarahwangy/BlogPra"
+  },
+  {
+    "title": "portfolio project",
+    "image": "portfolio-project",
+    "technologies": ["Node.js", "SASS", "Tailwind", "Hooks"],
+    "description": "This is a simple portfolio page",
+    "appUrl": "https://portfolio-sarah-s.netlify.app/",
+    "githubUrl": "https://portfolio-sarah-s.netlify.app/"
+  }
+]
