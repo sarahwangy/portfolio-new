@@ -46,8 +46,8 @@ export default function AboutDetails(props) {
           href="https://twitter.com/happySarahss"
         >
           <b>Twitter</b>
-        </a>{" "}
-        where I shared and updated what I learned to become an awesome software
+        </a>
+        where I shared updated what I learned to become an awesome software
         developer every day. I used Twitter for updates, networking, and talking
         to my coding friends.
       </Typography>
