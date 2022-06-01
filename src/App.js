@@ -49,7 +49,7 @@ function App() {
               </Route>
             </Switch>
             <PortfolioDialog />
-            <Footer />
+            {/* <Footer /> */}
           </div>
         </DialogProvider>
       </ThemeProvider>

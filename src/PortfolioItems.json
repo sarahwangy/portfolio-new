@@ -1,7 +1,7 @@
 [
   {
     "title": "Phone-Store",
-    "image": "detail-page",
+    "image": "homePage",
     "technologies": ["React", "Node.js", "Hooks", "Ant Design UI"],
     "description": "Phone store is a e-commerce shopping website.",
     "appUrl": "https://phone-store-s.netlify.app",
@@ -22,5 +22,29 @@
     "description": "This is a simple portfolio page",
     "appUrl": "https://portfolio-sarah-s.netlify.app/",
     "githubUrl": "https://portfolio-sarah-s.netlify.app/"
+  },
+  {
+    "title": "online food project",
+    "image": "home-page",
+    "technologies": ["CSS", "Hooks", "Node.js"],
+    "description": "This is a simple online order page",
+    "appUrl": "https://online-food-restaurant.netlify.app/",
+    "githubUrl": "https://github.com/sarahwangy/online-food"
+  },
+  {
+    "title": "online food project",
+    "image": "background_2",
+    "technologies": ["CSS", "Hooks", "Node.js"],
+    "description": "This is a simple online order page",
+    "appUrl": "https://online-food-restaurant.netlify.app/",
+    "githubUrl": "https://github.com/sarahwangy/online-food"
+  },
+  {
+    "title": "online food project",
+    "image": "background_4",
+    "technologies": ["CSS", "Hooks", "Node.js"],
+    "description": "This is a simple online order page",
+    "appUrl": "https://online-food-restaurant.netlify.app/",
+    "githubUrl": "https://github.com/sarahwangy/online-food"
   }
 ]
